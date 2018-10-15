@@ -5,6 +5,6 @@ applications:
   memory: 900M
   instances: 1
   no-route: true    
-  health-check-type: none
+  health-check-type: process
   services:
   - rabbitTest
