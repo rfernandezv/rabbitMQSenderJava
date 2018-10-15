@@ -1,2 +1,2 @@
-# Enterprise Patterns - Spring Boot
-Enterprise Patterns - Spring Boot
+# RabbitMQ Receiver
+RabbitMQ Receiver Maven
